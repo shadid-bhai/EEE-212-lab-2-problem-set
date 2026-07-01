@@ -32,4 +32,4 @@ while i<=n
     i = i+1;
 end
 %%
-r=vpasolve(f,x); %solve for non-polynomial eqn
+r=vpasolve(f,x) %solve for non-polynomial eqn
