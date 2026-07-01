@@ -55,4 +55,5 @@ git clone https://github.com/your-username/EEE-212-lab-2-problem-set.git
 4. Run any of the problem scripts (e.g., `problem1.m`) directly in the Command Window or Editor.
 
 > **Note:** Make sure you have the **Symbolic Math Toolbox** installed in your MATLAB environment, as it is required to compute derivatives and run `vpasolve`.
-> *created by Shadid-202516058*
+
+*created by Shadid-202516058*
